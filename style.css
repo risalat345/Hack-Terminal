@@ -1,6 +1,7 @@
 body{
     background-color: black;
-    color: cyan;
+    color: green;
+    font-family:monospace;
 }
 @keyframes blink {50% { color: transparent }}
 .loader__dot { animation: 1s blink infinite }
